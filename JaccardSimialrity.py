@@ -1,7 +1,7 @@
 '''
 Created on Jun 17, 2019
 
-@author: FVJ4
+@author: upagupta
 
 Finding Jaccard Similarity between two different words
 '''
