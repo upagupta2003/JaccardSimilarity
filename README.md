@@ -1,4 +1,4 @@
 # JaccardSimilarity
 
 ### Requirements
--Soark SQL 2.3
+-Spark SQL 2.3
